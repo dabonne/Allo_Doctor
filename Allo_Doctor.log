@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.4.4)  8 APR 2020 01:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.4.4)  8 APR 2020 06:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -94,7 +94,7 @@ File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count186
 \l__pdf_internal_box=\box45
 )
-No file Allo_Doctor.aux.
+(./Allo_Doctor.aux)
 \openout1 = `Allo_Doctor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -114,7 +114,7 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Info: Redefining \degres on input line 6.
 LaTeX Info: Redefining \dots on input line 6.
 LaTeX Info: Redefining \up on input line 6.
-[1
+ [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -123,8 +123,8 @@ Chapitre 1.
 
 ] [3] (./Allo_Doctor.aux) ) 
 Here is how much of TeX's memory you used:
- 2012 strings out of 480994
- 29016 string characters out of 5914632
+ 2014 strings out of 480994
+ 29048 string characters out of 5914632
  280115 words of memory out of 5000000
  17567 multiletter control sequences out of 15000+600000
  538508 words of font info for 32 fonts, out of 8000000 for 9000
